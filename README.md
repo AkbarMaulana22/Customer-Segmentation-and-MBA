@@ -1,0 +1,2 @@
+# Customer-Segmentation-and-MBA
+we using publicly dataset On-line Retail to explore customer segmentation through the interesting task of unsupervised learning method. Then we go further and apply association rule mining approach to find interesting rules and patterns in this transaction database. These customer segmentation, rules and patterns can be used to make interesting and useful decisions as far as user interest is concerned.
